@@ -4,5 +4,6 @@ This python script converts a **CSV** file to a **JSON** document. The program c
 
 ## usage
 
-' ' 'bash
-python csv_to_json.py <csv_path> <json_path>
+' ' 'bash 
+
+python3 csv_to_json.py <csv_path> <json_path>
